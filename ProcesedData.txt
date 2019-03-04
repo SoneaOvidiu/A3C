@@ -1,0 +1,2823 @@
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 63
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 59
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 66
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 70
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 72
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 72
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 72
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 72
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 63
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 56
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 55
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 58
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 60
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 57
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 54
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 55
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 59
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 66
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 67
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 63
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 57
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 63
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 63
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 61
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 56
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 58
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 59
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 58
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 67
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 69
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 234
+Avarege reward from last 10 steps is: 97
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 97
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 96
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 98
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 103
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 104
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 100
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 99
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 97
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 95
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 67
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 66
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 67
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 65
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 67
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 66
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 68
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 69
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 72
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 72
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 70
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 70
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 80
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 86
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 86
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 92
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 86
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 90
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 88
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 83
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 87
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 85
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 74
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 74
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 68
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 69
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 69
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 67
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 66
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 66
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 62
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 64
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 64
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 64
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 64
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 81
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 81
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 81
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 83
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 84
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 83
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 89
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 86
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 90
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 100
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 98
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 96
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 95
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 95
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 70
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 70
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 71
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 70
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 80
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 90
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 92
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 93
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 90
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 85
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 87
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 89
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 90
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 80
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 81
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 100
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 98
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 93
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 96
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 92
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 93
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 74
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 73
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 89
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 88
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 87
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 107
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 110
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 107
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 116
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 119
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 102
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 104
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 108
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 88
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 84
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 81
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 85
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 93
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 95
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 93
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 88
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 83
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 85
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 88
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 92
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 74
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 74
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 75
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 81
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 77
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 79
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 10 steps is: 82
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 84
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 84
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 85
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 86
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 85
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 78
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 80
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 81
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 82
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 82
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 84
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 83
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 84
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 83
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 84
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 83
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 82
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 81
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 82
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 83
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 82
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 84
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 83
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 86
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 296
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 95
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 95
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 92
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 95
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 91
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 89
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 299
+Avarege reward from last 25 steps is: 109
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 95
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 95
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 89
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 89
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 91
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 92
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 92
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 106
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 112
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 110
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 105
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 105
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 105
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 98
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 92
+The avarege time needed to score a point from the last 25 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 92
+The avarege time needed to score a point from the last 25 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 93
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 94
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 96
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 97
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 110
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 106
+The avarege time needed to score a point from the last 25 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 106
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 99
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 100
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 107
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 110
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 110
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 109
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 106
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 110
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 111
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 111
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 111
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 118
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 123
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 115
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 122
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 112
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 122
+The avarege time needed to score a point from the last 25 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 126
+The avarege time needed to score a point from the last 25 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 130
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 131
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 132
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 131
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 123
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 124
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 130
+The avarege time needed to score a point from the last 25 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 121
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 128
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 134
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 130
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 136
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 137
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 140
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 140
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 139
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 132
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 126
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 118
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 118
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 121
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 112
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 112
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 109
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 104
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 101
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 102
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 103
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 109
+The avarege time needed to score a point from the last 25 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 110
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 108
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 115
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 116
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 114
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 111
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 112
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 113
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 121
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 130
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 121
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 123
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 117
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 118
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 124
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 121
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 132
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 132
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 130
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 134
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 141
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 136
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 131
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 133
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 137
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 126
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 121
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 124
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 124
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 125
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 128
+The avarege time needed to score a point from the last 25 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 134
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 135
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 134
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 125
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 126
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 118
+The avarege time needed to score a point from the last 25 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 124
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 128
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 120
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 119
+The avarege time needed to score a point from the last 25 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 128
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 126
+The avarege time needed to score a point from the last 25 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 125
+The avarege time needed to score a point from the last 25 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 134
+The avarege time needed to score a point from the last 25 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 139
+The avarege time needed to score a point from the last 25 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 137
+The avarege time needed to score a point from the last 25 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 136
+The avarege time needed to score a point from the last 25 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 127
+The avarege time needed to score a point from the last 25 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 129
+The avarege time needed to score a point from the last 25 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 128
+The avarege time needed to score a point from the last 25 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 130
+The avarege time needed to score a point from the last 25 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 25 steps is: 128
+The avarege time needed to score a point from the last 25 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 118
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 97
+The avarege time needed to score a point from the last 10 steps is: 34
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 112
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 147
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 160
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 166
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 164
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 126
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 130
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 131
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 131
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 121
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 122
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 110
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 121
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 155
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 161
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 153
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 98
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 76
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 78
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 80
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 94
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 108
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 118
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 117
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 114
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 123
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 129
+The avarege time needed to score a point from the last 10 steps is: 33
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 125
+The avarege time needed to score a point from the last 10 steps is: 34
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 111
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 109
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 92
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 90
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 88
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 99
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 112
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 112
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 118
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 107
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 117
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 121
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 105
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 121
+The avarege time needed to score a point from the last 10 steps is: 33
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 102
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 104
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 104
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 107
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 104
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 118
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 165
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 158
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 147
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 153
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 147
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 163
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 167
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 163
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 162
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 173
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 180
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 173
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 171
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 146
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 148
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 129
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 125
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 107
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 129
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 131
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 148
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 150
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 152
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 119
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 101
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 107
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 122
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 118
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 150
+The avarege time needed to score a point from the last 10 steps is: 12
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 160
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 172
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 169
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 158
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 174
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 163
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 154
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 171
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 167
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 110
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 128
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 126
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 109
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 104
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 97
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 102
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 103
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 86
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 84
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 98
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 149
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 146
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 161
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 147
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 148
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 168
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 153
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 161
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 151
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 158
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 103
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 114
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 121
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 125
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 105
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 122
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 114
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 152
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 165
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 168
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 137
+The avarege time needed to score a point from the last 10 steps is: 36
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 131
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 121
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 105
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 105
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 106
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 106
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 101
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 93
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 92
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 89
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 91
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 95
+The avarege time needed to score a point from the last 10 steps is: 34
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 108
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 117
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 151
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 160
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 154
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 146
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 131
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 148
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 130
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 33
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 120
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 31
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 146
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 143
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 162
+The avarege time needed to score a point from the last 10 steps is: 22
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 171
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 159
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 157
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 158
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 154
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 153
+The avarege time needed to score a point from the last 10 steps is: 29
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 154
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 149
+The avarege time needed to score a point from the last 10 steps is: 35
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 162
+The avarege time needed to score a point from the last 10 steps is: 37
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 36
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 33
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 33
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 34
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 32
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 148
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 146
+The avarege time needed to score a point from the last 10 steps is: 25
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 23
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 152
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 156
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 155
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 168
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 173
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 168
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 151
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 147
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 128
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 114
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 113
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 119
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 116
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 116
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 122
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 136
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 151
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 150
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 131
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 149
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 13
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 140
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 163
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 159
+The avarege time needed to score a point from the last 10 steps is: 17
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 149
+The avarege time needed to score a point from the last 10 steps is: 18
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 20
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 141
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 146
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 139
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 142
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 119
+The avarege time needed to score a point from the last 10 steps is: 16
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 132
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 15
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 138
+The avarege time needed to score a point from the last 10 steps is: 14
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 144
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 147
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 145
+The avarege time needed to score a point from the last 10 steps is: 19
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 127
+The avarege time needed to score a point from the last 10 steps is: 21
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 135
+The avarege time needed to score a point from the last 10 steps is: 26
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 133
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 134
+The avarege time needed to score a point from the last 10 steps is: 27
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 124
+The avarege time needed to score a point from the last 10 steps is: 28
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 117
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 30
+The greatest reward recorded was: 374
+Avarege reward from last 10 steps is: 115
+The avarege time needed to score a point from the last 10 steps is: 24
+The greatest reward recorded was: 374
