@@ -2,7 +2,7 @@ This is a implementation of the A3C algorithm that is trained to play the Atari 
 
 The implementation is for Python 2.7 using Linux as operating system.
 
-To give the user a better idea about the algorithms performance I made a ProcesedData.txt file which contains inforamtion that the training and the progress the AI has made so far.
+To give the user a better idea about the algorithms performance I made a ProcesedData.txt file which contains inforamtion about the training and the progress the AI has made so far.
 
 The brain.pkl is the file that contains the trained brain so that any new users of the algorithm are not required to go through a long learning phase.
 
